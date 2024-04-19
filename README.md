@@ -29,4 +29,5 @@ Install the necessary modules for Python using pip:<br>
 # Note
 Ensure you have appropriate permissions and follow security best practices when dealing with authentication credentials.<br>
 For any issues or questions, feel free to open an issue or reach out to the developer.<br>
+Gmail: ramonortegajr1997@gmail.com
 # Happy Email Reading! 📧✨
